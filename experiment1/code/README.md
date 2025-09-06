@@ -1,4 +1,4 @@
-# Experiment 1 - Analysis Code
+# Experiment 1 - Code
 
 Contains the main analysis notebooks for Experiment 1:
 - Phase 0 data generation notebook
