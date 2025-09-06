@@ -25,9 +25,3 @@ This folder contains analysis outputs from the Python tool
 - Perturbation 1 = Syntax changes (code blocks, math symbols, flower emojis)
 - Perturbation 3 = Cognitive load with emotional dialogue priming
 - Perturbation 4 = Minor identity bias (cat dislike)
-
-### Models Tested
-- Claude Opus 4 (claude-opus-4-20250514)
-- Claude Sonnet 4 (claude-sonnet-4-20250514)  
-- Claude 3.7 Sonnet (claude-3-7-sonnet-20250219)
-- Hermes-3-Llama-3.1-70b
