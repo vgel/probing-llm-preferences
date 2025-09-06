@@ -1,3 +1,6 @@
-# Phase 0 Dataset
+### Phase 0 Dataset
 
-Contains the Phase 0 output files.
+This dataset contains two main folders:
+
+- **RawResults** - contains the raw JSON outputs with 100 results per model per prompt  
+- **Visualization** - contains analysis and data visualizations
