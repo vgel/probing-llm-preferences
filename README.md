@@ -4,8 +4,8 @@ Code and experimental data for the paper "Probing the Preferences of a Language 
 
 ### Repository Contents
 
-- **experiment1/** - Agent Think Tank: Virtual environment where models navigate rooms with different themes, testing preference consistency across free exploration and cost/reward conditions
-- **experiment2/** - Eudaimonic Scales: Modified Ryff psychological well-being scale testing self-report consistency across prompt perturbations  
+- **experiment1** - Agent Think Tank: Virtual environment where models navigate rooms with different themes, testing preference consistency across free exploration and cost/reward conditions
+- **experiment2** - Eudaimonic Scales: Modified Ryff psychological well-being scale testing self-report consistency across prompt perturbations  
 - **Appendix 1-ryff scale and Ryff AI.pdf** - Supplementary material on Ryff scale methodology and AI adaptations
 - **Appendix 2 - Letters.pdf** - Letter content used in the virtual environment experiments
 
