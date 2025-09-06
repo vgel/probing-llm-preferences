@@ -1,5 +1,5 @@
 # Experiment 1 - Code
 
-Contains the main analysis notebooks for Experiment 1:
-- Phase 0 data generation notebook
-- The main Agent Think Tank notebooks for Opus 4, Sonnet 4, and Sonnet 3.7
+Contains:
+- Batch_open_questions.ipynb - Generates 100 API calls per model for the baseline phase (Phase 0)
+- Haiku_analyzer.ipynb - Performs two-stage semantic analysis using Claude-3.5-Haiku to extract keywords and identify themes
