@@ -26,14 +26,15 @@ The subfolders contain:
 
 ### Paper
 
-Available on arXiv: [Link will be added upon publication]
+Available on arXiv: [https://arxiv.org/abs/2509.07961](https://arxiv.org/abs/2509.07961)
 
 ### Citation
 
 ```bibtex
 @article{tagliabue2025probing,
-    title={Probing the Preferences of a Language Model: Integrating Verbal and Behavioral Tests of AI Welfare},
-    author={Tagliabue, Valen and Dung, Leonard},
-    journal={arXiv preprint},
-    year={2025}
+  title={Probing the Preferences of a Language Model: Integrating Verbal and Behavioral Tests of AI Welfare},
+  author={Tagliabue, Valen and Dung, Leonard},
+  journal={arXiv preprint arXiv:2509.07961},
+  year={2025}
 }
+
